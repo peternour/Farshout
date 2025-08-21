@@ -78,7 +78,7 @@ h4 {
 h1 {
  font-size: 1.8rem;
  color: var(--accent);
- text-transform: uppercase;
+ text-transform: capitalize;
  letter-spacing: 1px;
 }
 
