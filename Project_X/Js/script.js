@@ -40,5 +40,5 @@ calcBtn.addEventListener("click", function () {
 });
 
 header.addEventListener("click", function () {
- header.textContent = "Peter Nour NagaHamadi Credit Unit";
+ header.textContent = "By Peter Nour";
 });
