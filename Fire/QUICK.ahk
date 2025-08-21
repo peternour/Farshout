@@ -166,7 +166,7 @@ FileCreateDir, D:\Committee\05 Neg-List\05-01 Clients
 FileCreateDir, D:\Committee\05 Neg-List\05-02 Guarantors
 FileCreateDir, D:\Committee\09 Scanner
 FileCreateDir, D:\Committee\09 Scanner\Others
-FileCreateDir, D:\Committee\09 Scanner\طلبات نجع حمادي للمراجعه_1
+FileCreateDir, D:\Committee\09 Scanner\طلبات فرشوط للمراجعة_1
 FileCreateDir, D:\Committee\10 Inbox
 ;===COPING FILES TO NEW CREATED FOLDERS---------------------->
 FileCopy, D:\COMMITTEE FORMES\Neg_List_Form\Neg_List_Report.xlsx,           D:\Committee\05 Neg-List\%CUR_DATE% _Neg_List_Report.xlsx
