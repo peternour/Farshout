@@ -4,8 +4,8 @@ FormatTime, xx,, yyyy
 ;CREATE==============================================================================
 Gui, Add, Button, x12 y19 w140 h20 gopenrevisionFile,           جهز تقرير  المراجعة
 Gui, Add, Button, x12 y39 w140 h20 grunrevisionreport,          نفذ تقرير المراجعة
-Gui, Add, Button, x12 y59 w140 h20 gcreatDisburseFolder,        معطل                ;New Full Disburse Folder
-Gui, Add, Button, x12 y79 w140 h20 gcreatDayoffFolder,          معطل                ;Creat Dayoff Folder
+;Gui, Add, Button, x12 y59 w140 h20 gcreatDisburseFolder,        معطل                ;New Full Disburse Folder
+;Gui, Add, Button, x12 y79 w140 h20 gcreatDayoffFolder,          معطل                ;Creat Dayoff Folder
 Gui, Add, Button, x12 y99 w140 h20 gcreatcommittee,             انشئ مجمع اللجان       ;Initialize Committee Folder
 Gui, Add, Button, x12 y119 w140 h20 gcreatnew-committee,        انشئ لجنة جديدة        ;New Committee
 Gui, Add, Button, x12 y139 w140 h20 gdisburse-edy,              صرف ايدي             ;Disburse Edy
@@ -14,12 +14,12 @@ Gui, Add, Button, x12 y179 w140 h20 gdisburse-alex,             صرف اسكن�
 Gui, Add, Button, x12 y199 w140 h20 gdisburse-misr,             صرف مصر             ;Disburse Misr
 Gui, Add, Button, x12 y219 w140 h20 gdisburse-spanish,          صرف الاسباني          ;Disburse Spanish
 ;SLECTICTIVE FOLDERS==============================================================
-Gui, Add, Button, x182 y19 w150 h20  gdayoffFolder,             معطل                 ;Dayoff Folder %xx%
-Gui, Add, Button, x182 y39 w150 h20  gselectDayoffFolder,       معطل                 ;Dayoff Folder
-Gui, Add, Button, x182 y59 w150 h20 gselectContractsFolder,     معطل                 ;Contract Folder
-Gui, Add, Button, x182 y79 w150 h20 gsearchiscore,              معطل                 ;Search In Iscore
-Gui, Add, Button, x182 y99 w150 h20 gsearchforiscore,           معطل                 ;Search In Iscore History
-Gui, Add, Button, x182 y119 w150 h20 gsearchforDayoffBalance,   معطل                 ;DayOff Balance
+;Gui, Add, Button, x182 y19 w150 h20  gdayoffFolder,             معطل                 ;Dayoff Folder %xx%
+;Gui, Add, Button, x182 y39 w150 h20  gselectDayoffFolder,       معطل                 ;Dayoff Folder
+;Gui, Add, Button, x182 y59 w150 h20 gselectContractsFolder,     معطل                 ;Contract Folder
+;Gui, Add, Button, x182 y79 w150 h20 gsearchiscore,              معطل                 ;Search In Iscore
+;Gui, Add, Button, x182 y99 w150 h20 gsearchforiscore,           معطل                 ;Search In Iscore History
+;Gui, Add, Button, x182 y119 w150 h20 gsearchforDayoffBalance,   معطل                 ;DayOff Balance
 ;OPEN===============================================================================
 Gui, Add, Button, x362 y19 w150 h20 gforms,                     فورم للطباعة                 ;Forms
 Gui, Add, Button, x362 y39 w150 h20 gopeniscore,                جهز استعلام آي سكور وامني     ;Open Iscore_TXT
@@ -29,12 +29,12 @@ Gui, Add, Button, x362 y99 w150 h20 gopencommitteeFolder,       فولدر ال�
 Gui, Add, Button, x362 y119 w150 h20 gdisburseFolder,           فولدر الصرف اليومي           ;Disburse Folder
 Gui, Add, Button, x362 y139 w150 h20 gcurrentContractFolder,    فولدر العقود                 ;Current Contract Folder
 Gui, Add, Button, x362 y159 w150 h20 giscoursite,               افتح موقع الاستعلام           ;Iscour Site
-Gui, Add, Button, x362 y179 w150 h20 gemptyCards,               معطل                      ;Empty Cards
-Gui, Add, Button, x362 y199 w150 h20 gkaramSheet,               معطل                      ;karam R Sheet
+;Gui, Add, Button, x362 y179 w150 h20 gemptyCards,               معطل                      ;Empty Cards
+;Gui, Add, Button, x362 y199 w150 h20 gkaramSheet,               معطل                      ;karam R Sheet
 
 ;DO====================================================================================
-Gui, Add, Button, x542 y19 w160 h20 gtanfeez,                    معطل                       ;Tanfeez
-Gui, Add, Button, x542 y39 w160 h20 gdueInstallmentsReport,      معطل                       ;Due Installments
+;Gui, Add, Button, x542 y19 w160 h20 gtanfeez,                    معطل                       ;Tanfeez
+;Gui, Add, Button, x542 y39 w160 h20 gdueInstallmentsReport,      معطل                       ;Due Installments
 Gui, Add, Button, x542 y59 w160 h20 gmoveInformFile,             انقل ملف الاستعلام            ;Move Inform File
 ;=======================================================================================
 Gui, Add, Text, x-12 y79 w200 h2 ,
