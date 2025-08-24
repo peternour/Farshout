@@ -2,7 +2,7 @@
 02 modify contract address
 03 install Every thing app
 04 install Git 
-05 
+05 send new updated google sheet to hedra and move onwership to him
 06 
 07 
 08 
